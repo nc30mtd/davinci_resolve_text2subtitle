@@ -1,0 +1,2 @@
+# davinci_resolve_text2subtitle
+Davinci Resolveの字幕スーパー入れる作業を半自動化するためのスクリプト
